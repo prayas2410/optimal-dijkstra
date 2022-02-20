@@ -36,7 +36,7 @@ public class OptimalDijkstra{
         addEdge(graph, 3, 4, 1);
         */
 
-        // ----------------------------sparse graph----------------------------
+        // ----------------------sample sparse graph--------------------------
         addEdge(graph, 0, 1, 3);
         addEdge(graph, 0, 4, 0);
         addEdge(graph, 1, 2, 5);
